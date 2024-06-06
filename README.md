@@ -1,8 +1,17 @@
-# React + Vite
+# <p align="center">Wealth Health</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Application Bancaire Web avec authentification des utilisateurs
 
-Currently, two official plugins are available:
+## 📝 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ce projet vise à moderniser l'application web interne HRnet de WealthHealth en remplaçant son architecture front-end basé sur jQuery par des composants React. Cette transition permettra d'améliorer les performances et la stabilité de l'application, tout en facilitant sa maintenance et son évolutivité.
+
+## 🚀 Tâches Principales
+
+### 🔄 Conversion de HRnet en JQuery vers React
+
+Le repository actuel de HRnet peut être consulté [ici](https://github.com/OpenClassrooms-Student-Center/P12_Front-end). Voici les principales tâches réalisées :
+
+1. Créer une version React des pages "Create Employee" et "Employee List".
+2. Implémenter un système de gestion d'état avec React
+3. Maintenir la cohérence du style visuel de l'application.
