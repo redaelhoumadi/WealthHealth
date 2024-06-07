@@ -15,3 +15,9 @@ Le repository actuel de HRnet peut être consulté [ici](https://github.com/Open
 1. Créer une version React des pages "Create Employee" et "Employee List".
 2. Implémenter un système de gestion d'état avec React
 3. Maintenir la cohérence du style visuel de l'application.
+
+## 💻 Installation
+
+1. Cloner le repositorie : https://github.com/redaelhoumadi/WealthHealth
+2. Installer les dependencies : npm install
+3. Lancer l'application : npm start
